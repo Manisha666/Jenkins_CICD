@@ -1,4 +1,4 @@
 <?php
-echo "Sample"
+echo "welcome"
 ?>
 
