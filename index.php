@@ -1,4 +1,4 @@
 <?php
-echo "too ssg"
+echo "to ssg"
 ?>
 
