@@ -1,4 +1,4 @@
 <?php
-echo "to ssg"
+echo "Jenkins"
 ?>
 
